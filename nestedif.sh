@@ -1,5 +1,4 @@
 #!/bin/sh
-osch = 0
 echo "1.Unix (Sun OS)"
 echo "2.Linu (Red Hat)"
 echo -n "Select your os choice [1 or 2]?"
